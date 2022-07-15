@@ -149,3 +149,7 @@ C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\obj\Debug\n
 C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
 C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
 C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\bin\Debug\net5.0\Castle.Windsor.dll
+C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Fifi\Desktop\APBD\TutRazor\WebappRazorPages\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
