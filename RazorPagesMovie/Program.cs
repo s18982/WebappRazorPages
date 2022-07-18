@@ -6,6 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using RazorPagesMovie.Models;
+using Microsoft.EntityFrameworkCore;
+using RazorPagesMovie.Data;
 
 namespace RazorPagesMovie
 {
